@@ -1,6 +1,6 @@
 ## Hi I'm Khai Phan Van
 
-:computer: _Software Engenieer at [StepMedia Software](https://mediastep.com/)_ Living in Ho Chi Minh
+:computer: _Software Engenieer at [BeLive Technology](https://belive.technology/)_ Living in Ho Chi Minh
 
 ### My Tech Stack
 
